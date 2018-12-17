@@ -9,8 +9,8 @@
     </parent>
 
     <groupId>com.ifi.tp</groupId>
-    <artifactId>api-notification</artifactId>
-    <name>api-notification</name>
+    <artifactId>tp-06-async</artifactId>
+    <name>tp-06-async</name>
     <packaging>jar</packaging>
     <version>1.0.0</version>
 
